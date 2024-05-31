@@ -19,8 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AmeyawJr)
 
-
-- 📫 How to reach me [Email](https://ameyawjnr@gmail.com) and [LinkedIn](https://linkedin.com/in/owusuameyaw)
+- 📫 How to reach me: [Email](mailto:ameyawjnr@gmail.com) and [LinkedIn](https://linkedin.com/in/owusuameyaw)
 
 - 📄 Know about my experiences [My Resume](https://app.enhancv.com/share/cda82463/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
